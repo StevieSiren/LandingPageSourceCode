@@ -38,7 +38,7 @@ circle2.addEventListener("click", function() {
 	circle2.style.transition = ".2s";
 	iconHeader.innerText = "Security";
 	iconText.innerText = "Secure SSH Key Login and optional password login, both with Root Access to any Virtual Private Server you spin up.";
-	iconRightImage.innerHtml.src = "/img/lock.png";
+	iconRightImage.innerHtml.src = "../img/lock.png";
 
 });
 
